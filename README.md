@@ -7,4 +7,4 @@
 site.com/folder/?text=اسم شما&color=رنگ
 
      مثال 👇
-     api.mirteam.ir/photo1/?text=میر&color=grey
+     api.mirteam.ir/photo1/?text=تیم%20میر&color=grey
