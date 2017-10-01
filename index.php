@@ -7,7 +7,7 @@ $Width = '200';
 $Rotation = '25';
 $color = $_GET['color'] or 'white';
 if(!$_GET['text']) {
-	$string="تیم کرول";
+	$string="میر";
 } else {
 	$string=$_GET['text'];
 }
